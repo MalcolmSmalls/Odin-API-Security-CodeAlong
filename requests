@@ -1,0 +1,4 @@
+# curl --request POST http://localhost:5000/api/login
+
+curl -X POST http://localhost:5000/api/posts
+	-H "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoxLCJ1c2VybmFtZSI6ImJyYWQiLCJlbWFpbCI6ImJyYWRAZ21haWwuY29tIn0sImlhdCI6MTY3MjYxMTQ4MH0.7Zyi-SvPpgGUUShz7O_a43Nkz52ZD7882vcnUt9vvZU"

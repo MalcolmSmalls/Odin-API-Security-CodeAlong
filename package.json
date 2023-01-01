@@ -1,0 +1,23 @@
+{
+  "name": "odin-api-security-codealong",
+  "version": "1.0.0",
+  "description": "JWT testing",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MalcolmSmalls/Odin-API-Security-CodeAlong.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MalcolmSmalls/Odin-API-Security-CodeAlong/issues"
+  },
+  "homepage": "https://github.com/MalcolmSmalls/Odin-API-Security-CodeAlong#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0"
+  }
+}
